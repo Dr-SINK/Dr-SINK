@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dr-SINK
 - 👀 I’m interested in a Shopping mall project.
-- 🌱 I’m currently learning SpringBoot.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Coding Shopping mall.
 - 📫 How to reach me sinksprite@gmail.com
 
